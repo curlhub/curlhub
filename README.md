@@ -10,9 +10,9 @@ That's enough to meet the needs of a lot of developers!
 
 #### Bad News
 
-We had two good years of paying customers and then the pandemic hit and we lost all of them. 😞
+We had two good years of paying customers and then the pandemic hit and we lost all of them. 😳
 
-Since we never save your API requests, our costs our low, but we still operate at a loss as of Feb 2021.
+Since we never save your API requests, our costs our low, but we still operate at a loss as of March 2021.
 
 
 #### How you can help
