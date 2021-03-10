@@ -17,7 +17,7 @@ Since we never save your API requests, our costs our low, but we still operate a
 
 #### How you can help
 
-If you find CurlHub useful, please consider sponsoring us!
+If you find CurlHub useful, please consider [sponsoring us](https://github.com/sponsors/curlhub)!
 
 If you have issues or feature requests [submit an issue](https://github.com/curlhub/curlhub/issues)
 
